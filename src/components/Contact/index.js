@@ -3,8 +3,8 @@ import { capitalizeFirstLetter } from "../../utils/helpers";
 
 function Contact() {
     const [categories] = useState([
-        { name: 'GitHub', description: 'GitHub link' },
-        { name: '971-205-4928', description: 'Phone number'}
+        // { name: 'GitHub', description: 'GitHub link' },
+        // { name: '971-205-4928', description: 'Phone number'}
       ]);
       const [currentCategory, setCurrentCategory] = useState(categories[0]);
 
@@ -16,14 +16,17 @@ function Contact() {
             <nav>
         <ul className="flex-row">
           <li className="mx-2">
-            <a
-              href="https://github.com/PeterwMcClelland" target='blank'
-            >
-                <li>
-              </li>
+            <a href="https://github.com/PeterwMcClelland" target='blank'>
+                <lu>
+                    GitHub
+              </lu>
             </a>
-          </li>
-          <li>
+            
+          <a href="https://www.linkedin.com/in/peter-mcclelland-065450230/" target='blank'>
+              <lu>
+                  Linked In
+              </lu>
+          </a>
             <span></span>
           </li>
         

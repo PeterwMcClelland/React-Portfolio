@@ -192,6 +192,7 @@ textarea {
 .mx-2 {
   margin-right: var(--spacing-two);
   margin-left: var(--spacing-two);
+  align-items: inherit;
 }
 
 .my-1 {
