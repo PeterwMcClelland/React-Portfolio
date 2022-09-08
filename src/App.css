@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.projects {
+  margin-left: 40px;
+}
+
+.wrapper {
+  display: grid;
+  justify-content:center;
+  align-items: stretch;
+  flex-wrap: wrap;
+}
+
+div {
+    width: fit-content;
+}

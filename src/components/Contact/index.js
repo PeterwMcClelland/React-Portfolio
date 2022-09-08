@@ -10,7 +10,7 @@ function Contact() {
 
     return (
         <section className="my-5" >
-          <h1 id="Contact">Contact</h1>
+          <h1 href="#contact" id="">Contact</h1>
           <div className="my-2">
             <footer>
             <nav>

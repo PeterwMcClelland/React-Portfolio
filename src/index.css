@@ -1,7 +1,8 @@
 main {
-	margin: 0 auto;
-	max-width: 90%;
-  padding: 50px 30px;
+	margin: auto;
+	/* max-width: 90%;
+  padding: 50px 30px; */
+  padding: 0px 20px 0px 20px;
 }
 :root {
   --primary: #8c54ff;
@@ -28,7 +29,6 @@ body {
 
 body {
   margin: 0;
-  padding: 0;
   font-weight: 600;
   line-height: 1.5;
   font-size: 18px;
@@ -92,6 +92,7 @@ a:hover {
 
 header {
   background: var(--dark);
+  padding: 15px 25px 15px 25px
 }
 
 header a {
@@ -210,10 +211,10 @@ textarea {
   margin-bottom: var(--spacing-five);
 }
 
-.px-1 {
+/* .px-1 {
   padding-right: var(--spacing-one);
   padding-left: var(--spacing-one);
-}
+} */
 
 .px-2 {
   padding-right: var(--spacing-two);
@@ -292,4 +293,109 @@ a {
 
 .navActive {
   color: var(--secondary);
+}
+
+.projects {
+  margin-left: 40px;
+}
+
+.grid-portfolio{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 30px
+}
+
+.wrapper {
+  display: grid;
+  justify-content:center;
+  align-items: stretch;
+  flex-wrap: wrap;
+}
+
+div {
+    width: fit-content;
+}
+
+.grid-with-sidebar{
+	display: grid;
+	grid-template-columns: 2fr 5fr;
+	gap: 30px
+}
+
+.grid-with-sidebar {
+	background: #838181
+}
+
+.one { 
+margin: 20px 0px 20px 0px;
+font-size: 25px;
+border-radius: 20px;
+color: rgb(185, 185, 185);
+background-image: url(./assets/Images/Logo.jpg);
+font-weight: bold;
+padding: 10px;
+height: 275px;
+border: solid;
+width: 100%;
+border: solid 2px rgba(255, 255, 255, 0.91);
+background-size: cover;
+background-position: center;
+}
+.two { 
+font-size: 25px;
+border-radius: 20px;
+color:rgb(185, 185, 185);
+font-weight: bold;
+display: flex;
+padding: 10px;
+width: 300px;
+height: 250px;
+background-image: url(./assets/Images/gamerz_connect_main_image.png);
+background-size: 325px 250px;
+border: solid 2px rgba(255, 255, 255, 0.91);
+background-position: bottom;
+}
+.three { 
+font-size: 25px;
+border-radius: 20px;
+color: rgb(185, 185, 185);
+background-image: url(./assets/Images/Screen\ Shot\ 2022-07-25\ at\ 9.58.03\ PM.png);
+background-size: 450px 300px;
+font-weight: bold;
+display: flex;
+padding: 10px;
+border: solid;
+width: 300px;
+height: 250px;
+border: solid 2px rgba(255, 255, 255, 0.91);
+}
+.four { 
+font-size: 25px; 
+border-radius: 20px;
+color: rgb(185, 185, 185);
+font-weight: bold;
+display: flex;
+padding: 10px;
+border: solid;
+width: 300px;
+height: 275px;
+border: solid 2px rgba(255, 255, 255, 0.91);
+background-image: url(./assets/Images/Screen\ Shot\ 2022-07-26\ at\ 4.30.01\ PM.png);
+background-size: 350px 225px;
+background-position: top;
+}
+
+.five { 
+font-size: 25px;
+border-radius: 20px;
+color: rgb(185, 185, 185);
+font-weight: bold;
+display: flex;
+padding: 10px;
+border: solid;
+width: 300px;
+height: 275px;
+border: solid 2px rgba(255, 255, 255, 0.91);
+background-image: url(./assets/Images/Screen\ Shot\ 2022-07-26\ at\ 4.53.20\ PM.png);
+background-size: 300px 175px;
 }
