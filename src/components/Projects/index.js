@@ -19,12 +19,13 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
 </p>
 
            <div class="education"> 
-            <h2>Education</h2>
-            <p class="ut">
-                <a href="assets/bootcamp.html" target="blank">UT Austin Coding Bootcamp</a>
-            </p>
+            <h2>Education/Resume</h2>
+            <a href='../bootcamp.js'>
+                <p class='utlink'>UT Austin Coding Bootcamp</p>
+                </a>
+            
             <p>
-                <a href="https://docs.google.com/document/d/e/2PACX-1vSN8yYMZaFWTqjaTCvRF5yGGme4ozTo0PQ-f1rOS7qeuFQzidm5JsnCTbVcc5kmNzGR60DH77ggFoKE/pub" target="blank"> Resume</a>
+                <a class='utlink' href="https://docs.google.com/document/d/e/2PACX-1vTHyQnEMC_A6BlEurGzysJFgRdvdWgN0v4MluiqfVg0CXVhuGbvMhb4JljiIBHgbFc-_yL1oxLMhSy5/pub" target="blank"> Resume</a>
             </p>
             </div>
             
