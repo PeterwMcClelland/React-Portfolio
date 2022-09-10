@@ -22,7 +22,7 @@ function Contact() {
               </lu>
           </a>
           <lu>
-          <a href="mailto:tilebarespresso@gmail.com"><i class="fa-regular fa-envelope fa-2xl"></i></a>
+          <a href="mailto:peterwmcclelland@gmail.com"><i class="fa-regular fa-envelope fa-2xl"></i></a>
           </lu>
           <lu>
               971-205-4928
