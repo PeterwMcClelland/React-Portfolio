@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.b99f906a.css",
+    "main.js": "/react-portfolio/static/js/main.69c27021.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Logo.jpg": "/react-portfolio/static/media/Logo.b5a751f98adc0cb10eca.jpg",
+    "static/media/gamerz_connect_main_image.png": "/react-portfolio/static/media/gamerz_connect_main_image.a83b2e52d08f1b0d0512.png",
+    "static/media/Screen Shot 2022-07-25 at 9.58.03 PM.png": "/react-portfolio/static/media/Screen Shot 2022-07-25 at 9.58.03 PM.0598ea22699fd0e52911.png",
+    "static/media/Screen Shot 2022-07-26 at 4.53.20 PM.png": "/react-portfolio/static/media/Screen Shot 2022-07-26 at 4.53.20 PM.fa79aeb7fc9da4c49aaa.png",
+    "static/media/Screen Shot 2022-07-26 at 4.30.01 PM.png": "/react-portfolio/static/media/Screen Shot 2022-07-26 at 4.30.01 PM.1a4ecbcce0de4b8f9aaa.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.b99f906a.css.map": "/react-portfolio/static/css/main.b99f906a.css.map",
+    "main.69c27021.js.map": "/react-portfolio/static/js/main.69c27021.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b99f906a.css",
+    "static/js/main.69c27021.js"
+  ]
+}
