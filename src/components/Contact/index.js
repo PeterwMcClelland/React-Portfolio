@@ -3,30 +3,33 @@ import React from "react";
 function Contact() {
 
     return (
-        <section>
-            <footer>
-          <h1 href="#contact" id="">Contact</h1>
-            
-            <nav>
+        
+            <footer class='footer'>
+                <nav class='footer-nav'>
         <ul className="flex-row">
-          
+        <lu>
+        <h1 href="#contact" id="">Contact</h1>
+        </lu>
             <a href="https://github.com/PeterwMcClelland" target='blank'>
                 <lu>
-                    GitHub
+                <i class="fa-brands fa-github-square fa-2xl"></i>
               </lu>
             </a>
             
           <a href="https://www.linkedin.com/in/peter-mcclelland-065450230/" target='blank'>
               <lu>
-                  Linked In
+              <i class="fa-brands fa-linkedin fa-2xl"></i>
               </lu>
           </a>
+          <lu>
+              971-205-4928
+          </lu>
         
         </ul>
       </nav>
           </footer>
           
-        </section>
+    
       )
 }
 

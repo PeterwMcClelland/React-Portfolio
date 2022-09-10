@@ -11,21 +11,24 @@ function Projects (){
             </p>
             
 <p>
-I am a full stack web Developer based in Austin TX. I recently graduated from UT Austin’s coding bootcamp program. The program was very rewarding and I’m looking forward to building off what I have learned. I would like to become a part of a company where I can continue to learn and develop my skills. 
+I am a full stack web Developer based in Austin TX. I recently graduated from UT Austins coding bootcamp program. The program was very rewarding and I’m looking forward to building off what I have learned. I would like to become a part of a company where I can continue to learn and develop my skills. 
 </p>
 
 <p>
-    I’m currently available for freelance work. Contact information is below if you would like to connect!  
+    I'm currently available for freelance work. Contact information is below if you would like to connect!  
 </p>
 
            <div class="education"> 
             <h2>Education/Resume</h2>
-            <a href='../bootcamp.js'>
-                <p class='utlink'>UT Austin Coding Bootcamp</p>
-                </a>
-            
-            <p>
-                <a class='utlink' href="https://docs.google.com/document/d/e/2PACX-1vTHyQnEMC_A6BlEurGzysJFgRdvdWgN0v4MluiqfVg0CXVhuGbvMhb4JljiIBHgbFc-_yL1oxLMhSy5/pub" target="blank"> Resume</a>
+                <p class='utlink'>
+                    <ul>
+                        <li>
+                <i class="fa-solid fa-link"></i><a class='utlink' href='https://docs.google.com/document/d/e/2PACX-1vQijtfi9bCCIYd63dWPurpHlJyppLnMrMYdc4TbpZxEY9CT7cERLlz_6DqsS9ZGDx_AMyJaGShvKceG/pub' target="blank">UT Austin Coding Bootcamp</a>
+                </li>
+                <li>
+                <i class="fa-solid fa-link"></i><a class='utlink' href="https://docs.google.com/document/d/e/2PACX-1vTHyQnEMC_A6BlEurGzysJFgRdvdWgN0v4MluiqfVg0CXVhuGbvMhb4JljiIBHgbFc-_yL1oxLMhSy5/pub" target="blank"> Resume</a>
+                </li>
+                </ul>
             </p>
             </div>
             
