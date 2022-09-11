@@ -11,7 +11,7 @@ function Projects (){
             </p>
             
 <p>
-I am a full stack web Developer based in Austin TX. I recently graduated from UT Austins coding bootcamp program. The program was very rewarding and I’m looking forward to building off what I have learned. I would like to become a part of a company where I can continue to learn and develop my skills. 
+I am a full stack web Developer based in Austin TX. I recently graduated from UT Austins coding bootcamp program. The program was very rewarding and I am looking forward to building off what I have learned. I would like to become a part of a company where I can continue to learn and develop my skills. 
 </p>
 
 <p>
@@ -23,10 +23,10 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
                 <p class='utlink'>
                     <ul>
                         <li>
-                <i class="fa-solid fa-link"></i><a class='utlink' href='https://docs.google.com/document/d/e/2PACX-1vQijtfi9bCCIYd63dWPurpHlJyppLnMrMYdc4TbpZxEY9CT7cERLlz_6DqsS9ZGDx_AMyJaGShvKceG/pub' target="blank">UT Austin</a>
+                <i class="fa-solid fa-link fa-2xs"></i><a class='utlink' href='https://docs.google.com/document/d/e/2PACX-1vQijtfi9bCCIYd63dWPurpHlJyppLnMrMYdc4TbpZxEY9CT7cERLlz_6DqsS9ZGDx_AMyJaGShvKceG/pub' target="blank">UT Austin</a>
                 </li>
                 <li>
-                <i class="fa-solid fa-link"></i><a class='utlink' href="https://docs.google.com/document/d/e/2PACX-1vTHyQnEMC_A6BlEurGzysJFgRdvdWgN0v4MluiqfVg0CXVhuGbvMhb4JljiIBHgbFc-_yL1oxLMhSy5/pub" target="blank"> Resume</a>
+                <i class="fa-solid fa-link fa-2xs"></i><a class='utlink' href="https://docs.google.com/document/d/e/2PACX-1vTHyQnEMC_A6BlEurGzysJFgRdvdWgN0v4MluiqfVg0CXVhuGbvMhb4JljiIBHgbFc-_yL1oxLMhSy5/pub" target="blank"> Resume</a>
                 </li>
                 </ul>
             </p>
@@ -52,30 +52,41 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
         </div>
 
         <section className="my-5" >
-          <h1 href="#projects" id="Projects">Projects</h1>
+          {/* <h1 href="#projects" id="Projects">Projects</h1> */}
           
-          <div class="projects">
+          <div class="projects"><h1>Projects</h1>
 
 <a class="work-text"  href="https://peterwmcclelland.github.io/TileBar-Espresso/" target="blank">
 <div class="one"></div>
+<a class="githubicon" href="https://github.com/PeterwMcClelland/TileBar-Espresso" target='blank'>
+<i class="fa-solid fa-link fa-2xs"></i>Repo
+            </a>
 </a>
-
 <div class="grid-portfolio">
     <div>
         <a class="work-text" href="https://secret-coast-34340.herokuapp.com/" target="blank">
         <div class="two"></div>
+        <a class="githubicon" href="https://github.com/PeterwMcClelland/Video-Game-Chats" target='blank'>
+        <i class="fa-solid fa-link fa-2xs"></i>Repo
+            </a>
         </a>
     </div>
 
     <div>
         <a class="work-text" href="https://budget-tracker55.herokuapp.com/" target="blank">
         <div class="three"></div>
+        <a class="githubicon" href="https://github.com/PeterwMcClelland/Budget-tracker" target='blank'>
+            <i class="fa-solid fa-link fa-2xs"></i>Repo
+            </a>
         </a>
     </div>
 
     <div>
         <a class="work-text" href="https://peterwmcclelland.github.io/run-buddy/" target="blank">
         <div class="four"></div>
+        <a class="githubicon" href="https://github.com/PeterwMcClelland/run-buddy" target='blank'>
+            <i class="fa-solid fa-link fa-2xs"></i>Repo
+            </a>
         </a>
 
     </div>
@@ -83,6 +94,9 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
     <div>
         <a class="work-text" href="https://peterwmcclelland.github.io/Taskmaster-Pro/" target="blank">
         <div class="five"></div>
+        <a class="githubicon" href="https://github.com/PeterwMcClelland/Taskmaster-Pro" target='blank'>
+        <i class="fa-solid fa-link fa-2xs"></i>Repo
+            </a>
         </a>
     </div>
     
