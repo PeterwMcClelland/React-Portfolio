@@ -178,6 +178,7 @@ textarea {
   align-items: center;
   column-gap: 145px;
   margin: 0px;
+  border-bottom: 1px solid;
 }
 
 .space-between {
@@ -443,6 +444,13 @@ background-size: 300px 175px;
     font-size: 18px;
 }
 
+.flex-row-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: 145px;
+  margin: 0px;
+}
 
  
 

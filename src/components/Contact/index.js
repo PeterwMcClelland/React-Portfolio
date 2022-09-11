@@ -6,7 +6,7 @@ function Contact() {
         
             <footer class='footer'>
                 <nav class='footer-nav'>
-        <ul className="flex-row">
+        <ul className="flex-row-footer">
         <lu>
         <h1 href="#contact" id="">Contact</h1>
         </lu>
