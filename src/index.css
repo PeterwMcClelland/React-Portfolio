@@ -440,6 +440,7 @@ background-size: 300px 175px;
     background-color: rgb(161, 161, 161);
     height: max-content;
     opacity: 0.8;
+    margin-top: 3px;
     margin-left: 20px;
     font-size: 18px;
 }

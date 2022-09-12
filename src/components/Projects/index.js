@@ -59,46 +59,48 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
 
 <a class="work-text"  href="https://peterwmcclelland.github.io/TileBar-Espresso/" target="blank">
 <div class="one"></div>
-<a class="githubicon" href="https://github.com/PeterwMcClelland/TileBar-Espresso" target='blank'>
-<i class="fa-brands fa-github fa-xs"></i>Repository
-        </a>
 </a>
+<a class="githubicon" href="https://github.com/PeterwMcClelland/TileBar-Espresso" target='blank'>
+<i class="fa-brands fa-github fa-xs"></i>
+    Repository
+    </a>
+
+    
 <div class="grid-portfolio">
     <div>
         <a class="work-text" href="https://secret-coast-34340.herokuapp.com/" target="blank">
         <div class="two"></div>
+        </a>
         <a class="githubicon" href="https://github.com/PeterwMcClelland/Video-Game-Chats" target='blank'>
         <i class="fa-brands fa-github fa-xs"></i>Repository
             </a>
-        </a>
     </div>
 
     <div>
         <a class="work-text" href="https://budget-tracker55.herokuapp.com/" target="blank">
         <div class="three"></div>
+        </a>
         <a class="githubicon" href="https://github.com/PeterwMcClelland/Budget-tracker" target='blank'>
         <i class="fa-brands fa-github fa-xs"></i>Repository
             </a>
-        </a>
     </div>
 
     <div>
         <a class="work-text" href="https://peterwmcclelland.github.io/run-buddy/" target="blank">
         <div class="four"></div>
+        </a>
         <a class="githubicon" href="https://github.com/PeterwMcClelland/run-buddy" target='blank'>
         <i class="fa-brands fa-github fa-xs"></i>Repository
             </a>
-        </a>
-
     </div>
 
     <div>
         <a class="work-text" href="https://peterwmcclelland.github.io/Taskmaster-Pro/" target="blank">
         <div class="five"></div>
+        </a>
         <a class="githubicon" href="https://github.com/PeterwMcClelland/Taskmaster-Pro" target='blank'>
         <i class="fa-brands fa-github fa-xs"></i>Repository
             </a>
-        </a>
     </div>
     
 </div>
