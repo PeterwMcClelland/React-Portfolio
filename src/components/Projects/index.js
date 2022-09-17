@@ -58,7 +58,7 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
           <div class="projects"><h1>Projects</h1>
 
 <a class="work-text"  href="https://peterwmcclelland.github.io/TileBar-Espresso/" target="blank">
-<div class="one"></div>
+<div class="one">hello world</div>
 </a>
 <a class="githubicon" href="https://github.com/PeterwMcClelland/TileBar-Espresso" target='blank'>
 <i class="fa-brands fa-github fa-xs"></i>
