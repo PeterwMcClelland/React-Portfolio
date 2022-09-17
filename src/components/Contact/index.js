@@ -16,7 +16,7 @@ function Contact() {
               </lu>
             </a>
             
-          <a href="https://www.linkedin.com/in/peter-mcclelland-065450230/" target='blank'>
+          <a href="https://www.linkedin.com/in/peterwmcclelland/" target='blank'>
               <lu>
               <i class="fa-brands fa-linkedin fa-2xl"></i>
               </lu>
