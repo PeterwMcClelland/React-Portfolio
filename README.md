@@ -21,4 +21,4 @@ https://react-portfolio741.herokuapp.com/
 Made By Peter McClelland
 
 ## Email
-peterwmcclelland@gmail.com
+Reach out if you would like to connect peterwmcclelland@gmail.com
