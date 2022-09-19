@@ -456,14 +456,6 @@ background-size: 300px 175px;
 
  /* Hover info, in progress*/
 
- .work-text {
-  position: relative;
-  /* display: inline-block; */
-  border-bottom: 1px dotted black;
-  /* color of the span text */
-  color: rgb(119, 162, 241);
-}
-
 .work-text .tooltiptext {
   visibility: hidden;
   width: 250px;
