@@ -59,7 +59,13 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
 
 <a class="work-text"  href="https://peterwmcclelland.github.io/TileBar-Espresso/" target="blank">
 <div class="one">
+<div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
+  <span class="tooltiptext">This is a template that can be used for a coffee catering company.
+        <p class="builtwithtext">Built with: HTML, CSS, Javascript, Fontawesome.</p>
+        </span>
 </div>
+</div>
+
 </a>
 <a class="githubicon" href="https://github.com/PeterwMcClelland/TileBar-Espresso" target='blank'>
 <i class="fa-brands fa-github fa-xs"></i>
@@ -70,7 +76,13 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
 <div class="grid-portfolio">
     <div>
         <a class="work-text" href="https://secret-coast-34340.herokuapp.com/" target="blank">
-        <div class="two"></div>
+        <div class="two">
+        <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
+                <span class="tooltiptext">This project is a gaming chat room, just create an account and start chating.
+            <p class="builtwithtext">Built with: Javascript, Node, Express, mySQL, MVC.</p>
+        </span>
+</div>
+        </div>
         </a>
         <a class="githubicon" href="https://github.com/PeterwMcClelland/Video-Game-Chats" target='blank'>
         <i class="fa-brands fa-github fa-xs"></i>Repository
@@ -79,7 +91,13 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
 
     <div>
         <a class="work-text" href="https://budget-tracker55.herokuapp.com/" target="blank">
-        <div class="three"></div>
+        <div class="three">
+        <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
+                <span class="tooltiptext">A budget tracking app with visual graph.
+            <p class="builtwithtext">Built with: HTML, CSS, Javascript, MongoDB, Express.</p>
+        </span>
+</div>
+        </div>
         </a>
         <a class="githubicon" href="https://github.com/PeterwMcClelland/Budget-tracker" target='blank'>
         <i class="fa-brands fa-github fa-xs"></i>Repository
@@ -88,7 +106,13 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
 
     <div>
         <a class="work-text" href="https://peterwmcclelland.github.io/run-buddy/" target="blank">
-        <div class="four"></div>
+        <div class="four">
+            <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
+                <span class="tooltiptext">This is a template that can be used for a exercise gym.
+            <p class="builtwithtext">Built with: HTML, CSS.</p>
+        </span>
+    </div>
+        </div>
         </a>
         <a class="githubicon" href="https://github.com/PeterwMcClelland/run-buddy" target='blank'>
         <i class="fa-brands fa-github fa-xs"></i>Repository
@@ -97,7 +121,13 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
 
     <div>
         <a class="work-text" href="https://peterwmcclelland.github.io/Taskmaster-Pro/" target="blank">
-        <div class="five"></div>
+        <div class="five">
+            <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
+                <span class="tooltiptext">A app to help you orgenize your schedule with date and category capability.
+            <p class="builtwithtext">Built with: HTML, CSS, Javascript, Bootstrap, JQuery.</p>
+        </span>
+    </div>
+        </div>
         </a>
         <a class="githubicon" href="https://github.com/PeterwMcClelland/Taskmaster-Pro" target='blank'>
         <i class="fa-brands fa-github fa-xs"></i>Repository
