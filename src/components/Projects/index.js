@@ -35,9 +35,10 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
             <h2>Languages / Programs</h2>
             <p class="languages">
                 <ul>
+                <li>HTML5</li>
                 <li>Javascript</li>
                 <li>CSS</li>
-                <li>mySQL</li>
+                <li>MySQL</li>
                 <li>REACT</li>
                 <li>Express</li>
                 <li>Bootstrap</li>
