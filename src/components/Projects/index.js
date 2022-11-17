@@ -44,6 +44,7 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
                 <li>Express</li>
                 <li>Bootstrap</li>
                 <li>Github</li>
+                <li>AWS</li>
                 <li>Heroku</li>
                 <li>MERN</li>
                 <li>MVP</li>
