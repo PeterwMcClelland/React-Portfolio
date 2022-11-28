@@ -363,14 +363,14 @@ div {
 font-size: 25px;
 border-radius: 20px;
 color: rgb(185, 185, 185);
-background-image: url(./assets/Images/Logo.jpg);
+background-image: url(assets/Images/background.png);
 font-weight: bold;
 padding: 10px;
 height: 275px;
 border: solid;
 width: 100%;
 border: solid 2px rgba(255, 255, 255, 0.91);
-background-size: cover;
+background-size: 686px 380px;
 background-position: center;
 
 }
@@ -384,8 +384,8 @@ display: flex;
 padding: 10px;
 width: 300px;
 height: 250px;
-background-image: url(./assets/Images/gamerz_connect_main_image.png);
-background-size: 325px 250px;
+background-image: url(./assets/Images/Logo.jpg);
+background-size: 400px 250px;
 border: solid 2px rgba(255, 255, 255, 0.91);
 background-position: bottom;
 }
@@ -404,19 +404,18 @@ height: 250px;
 border: solid 2px rgba(255, 255, 255, 0.91);
 }
 .four { 
-font-size: 25px; 
+font-size: 25px;
 border-radius: 20px;
-color: rgb(185, 185, 185);
+color:rgb(185, 185, 185);
 font-weight: bold;
 display: flex;
 padding: 10px;
-border: solid;
 width: 300px;
-height: 275px;
+height: 250px;
+background-image: url(./assets/Images/gamerz_connect_main_image.png);
+background-size: 325px 250px;
 border: solid 2px rgba(255, 255, 255, 0.91);
-background-image: url(./assets/Images/Screen\ Shot\ 2022-07-26\ at\ 4.30.01\ PM.png);
-background-size: 350px 225px;
-background-position: top;
+background-position: bottom;
 }
 
 .five { 
@@ -428,10 +427,10 @@ display: flex;
 padding: 10px;
 border: solid;
 width: 300px;
-height: 275px;
+height: 250px;
 border: solid 2px rgba(255, 255, 255, 0.91);
 background-image: url(./assets/Images/Screen\ Shot\ 2022-07-26\ at\ 4.53.20\ PM.png);
-background-size: 300px 175px;
+background-size: 295px 236px;
 }
 
 .githubicon {
@@ -458,7 +457,7 @@ background-size: 300px 175px;
 .work-text .tooltiptext {
   visibility: hidden;
   width: 250px;
-  background-color: #474747;
+  background-color: #000000;
   /* color of the tooltip text */
   color: #fff;
   text-align: center;
@@ -467,7 +466,7 @@ background-size: 300px 175px;
   position: absolute;
   z-index: 1;
   font-size: 16px;
-  opacity: .9;
+  opacity: .8;
 }
 
 .tooltip:hover .tooltiptext {
