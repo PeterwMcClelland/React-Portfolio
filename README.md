@@ -10,7 +10,7 @@ In command terminal run: npm start
 [![Screen-Shot-2022-09-12-at-9-19-27-PM.png](https://i.postimg.cc/TYkHzgC6/Screen-Shot-2022-09-12-at-9-19-27-PM.png)](https://postimg.cc/Ln1TfqcC)
 
 ## Built With
-HTML, CSS, React, Javascript, Fontawesome.
+HTML, CSS, React, JavaScript, Fontawesome.
 
 ## GitHub & Deployed Site
 https://github.com/PeterwMcClelland/React-Portfolio
