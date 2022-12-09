@@ -4,6 +4,12 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Projects from "./components/Projects";
 
+import TagManager from 'react-gtm-module'
+const tagManagerArgs = {
+  gtmId: '<G-MGEWNKRM0D>'
+}
+TagManager.initialize(tagManagerArgs)
+
 function App() {
   
   return (
