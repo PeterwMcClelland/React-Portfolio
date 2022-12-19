@@ -38,6 +38,7 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
                 <li>HTML5</li>
                 <li>JavaScript</li>
                 <li>CSS</li>
+                <li>PHP</li>
                 <li>MySQL</li>
                 <li>REACT</li>
                 <li>Node.js</li>
@@ -50,7 +51,6 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
                 <li>MVP</li>
                 <li>JSON</li>
                 <li>JQuery</li>
-                <li>MongoDB</li>
                 </ul>
             </p>
         </div>
