@@ -445,11 +445,12 @@ background-size: 295px 236px;
 }
 
 .flex-row-footer {
-  display: flex;
   flex-wrap: wrap;
-  align-items: center;
-  column-gap: 145px;
-  margin: 0px;
+    align-items: center;
+    column-gap: 10%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
 }
 
  /* Hover info, in progress*/
