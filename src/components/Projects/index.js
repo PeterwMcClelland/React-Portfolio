@@ -26,7 +26,7 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
                 <i class="fa-solid fa-link fa-2xs"></i><a class='utlink' href='https://docs.google.com/document/d/e/2PACX-1vQijtfi9bCCIYd63dWPurpHlJyppLnMrMYdc4TbpZxEY9CT7cERLlz_6DqsS9ZGDx_AMyJaGShvKceG/pub' target="blank">UT Austin</a>
                 </li>
                 <li>
-                <i class="fa-solid fa-link fa-2xs"></i><a class='utlink' href="https://docs.google.com/document/d/e/2PACX-1vTHyQnEMC_A6BlEurGzysJFgRdvdWgN0v4MluiqfVg0CXVhuGbvMhb4JljiIBHgbFc-_yL1oxLMhSy5/pub" target="blank"> Resume</a>
+                <i class="fa-solid fa-link fa-2xs"></i><a class='utlink' href="https://docs.google.com/document/d/e/2PACX-1vQbTRjsOVlWI2o9DZObhINP-FRHv9jHlRzm0bssALY91EL762HPxNDajvLkVvYFVjffrAVZ9TI8bouX/pub" target="blank"> Resume</a>
                 </li>
                 </ul>
             </p>
