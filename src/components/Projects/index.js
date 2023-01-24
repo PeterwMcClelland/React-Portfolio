@@ -78,7 +78,7 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
     
 <div class="grid-portfolio">
     <div>
-        <a class="work-text" href="https://peterwmcclelland.github.io/TileBar-Espresso/" target="blank">
+        <a class="work-text" href="https://react-tilebarespresso.herokuapp.com/" target="blank">
         <div class="two">
         <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
         <span class="tooltiptext">This is a template that can be used for a coffee catering company.
@@ -87,7 +87,7 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
 </div>
         </div>
         </a>
-        <a class="githubicon" href="https://github.com/PeterwMcClelland/TileBar-Espresso" target='blank'>
+        <a class="githubicon" href="https://github.com/PeterwMcClelland/React-TileBar-Espresso" target='blank'>
         <i class="fa-brands fa-github fa-xs"></i>Repository
             </a>
     </div>

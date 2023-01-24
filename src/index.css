@@ -9,7 +9,7 @@ main {
   --secondary: #F3A847;
   --tertiary: #B12704;
   --light: #fafafa;
-  --dark: #838181;
+  --dark: rgb(131, 129, 129);
   --darker: #111111;
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -178,6 +178,8 @@ textarea {
   column-gap: 145px;
   margin: 0px;
   border-bottom: 1px solid;
+  top: 0;
+  
 }
 
 .space-between {
