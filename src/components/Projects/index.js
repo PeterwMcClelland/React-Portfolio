@@ -64,7 +64,7 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
 <div class="one">
 <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
   <span class="tooltiptext">Portland skate spot guide.
-        <p class="builtwithtext">Built with React, HTML, CSS, JavaScript and Fontawesome.</p>
+        <p class="builtwithtext">Built with: React, HTML, CSS, JavaScript and Fontawesome.</p>
         </span>
 </div>
 </div>
@@ -82,7 +82,7 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
         <div class="two">
         <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
         <span class="tooltiptext">This is a template that can be used for a coffee catering company.
-        <p class="builtwithtext">Built with: HTML, CSS, Javascript, Fontawesome.</p>
+        <p class="builtwithtext">Built with: React, HTML, CSS, Javascript, Heroku.</p>
         </span>
 </div>
         </div>
