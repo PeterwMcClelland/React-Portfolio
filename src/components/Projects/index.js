@@ -111,7 +111,7 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
         <a class="work-text" href="https://github.com/PeterwMcClelland/Video-Game-Chats" target="blank">
         <div class="four">
             <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
-            <span class="tooltiptext">This project is a gaming chat room, just create an account and start chating.
+            <span class="tooltiptext">(In Development) This project is a gaming chat room, just create an account and start chating.
             <p class="builtwithtext">Built with: Javascript, Node, Express, mySQL, MVC.</p>
         </span>
     </div>
