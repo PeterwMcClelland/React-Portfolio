@@ -93,16 +93,16 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
     </div>
 
     <div>
-        <a class="work-text" href="https://budget-tracker55.herokuapp.com/" target="blank">
+        <a class="work-text" href="https://github.com/PeterwMcClelland/Wine-List" target="blank">
         <div class="three">
         <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
-                <span class="tooltiptext">A budget tracking app with visual graph.
-            <p class="builtwithtext">Built with: HTML, CSS, Javascript, MongoDB, Express.</p>
+                <span class="tooltiptext">(In Development) This is a wine Index that provides all the wines information using CRUD operations.
+            <p class="builtwithtext">Built with: Mongodb, Express, React, Node.js, JavaScript, HTML & CSS.</p>
         </span>
 </div>
         </div>
         </a>
-        <a class="githubicon" href="https://github.com/PeterwMcClelland/Budget-tracker" target='blank'>
+        <a class="githubicon" href="https://github.com/PeterwMcClelland/Wine-List" target='blank'>
         <i class="fa-brands fa-github fa-xs"></i>Repository
             </a>
     </div>
