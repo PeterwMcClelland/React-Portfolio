@@ -33,6 +33,7 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
             </div>
             
             <h2>Languages / Programs</h2>
+            
             <p class="languages">
                 <ul>
                 <li>HTML5</li>
