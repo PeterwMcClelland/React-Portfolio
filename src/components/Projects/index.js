@@ -33,7 +33,7 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
             </div>
             
             <h2>Languages / Programs</h2>
-            
+
             <p class="languages">
                 <ul>
                 <li>HTML5</li>
@@ -46,7 +46,6 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
                 <li>Express</li>
                 <li>Bootstrap</li>
                 <li>Github</li>
-                <li>AWS</li>
                 <li>Heroku</li>
                 <li>MERN</li>
                 <li>MVP</li>
