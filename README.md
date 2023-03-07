@@ -7,7 +7,7 @@ This is a portfolio of work from Peter McClelland.
 In command terminal run: npm start
 
 ## Screenshot
-[![Screen-Shot-2022-09-12-at-9-19-27-PM.png](https://i.postimg.cc/TYkHzgC6/Screen-Shot-2022-09-12-at-9-19-27-PM.png)](https://postimg.cc/Ln1TfqcC)
+[![Screen-Shot-2023-03-07-at-3-04-58-PM.png](https://i.postimg.cc/MpFjdTjK/Screen-Shot-2023-03-07-at-3-04-58-PM.png)](https://postimg.cc/qN2R7pL9)
 
 ## Built With
 HTML, CSS, React, JavaScript, Fontawesome.
