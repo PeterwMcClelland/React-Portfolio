@@ -58,7 +58,7 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
         <section className="my-5" >
           {/* <h1 href="#projects" id="Projects">Projects</h1> */}
           
-          <div class="projects"><h1>Projects</h1>
+          <div class="projects"><h1><i class="fa-solid fa-link fa-2xs"></i><a class='utlink' href='https://github.com/PeterwMcClelland' target="blank">Projects</a></h1>
 
 <a class="work-text"  href="https://reactthisweekend.herokuapp.com/" target="blank">
 <div class="one">

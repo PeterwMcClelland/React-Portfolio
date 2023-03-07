@@ -1,3 +1,8 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
+
+
 main {
   padding: 0px 25px 0px 25px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -43,8 +48,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: system-ui;
-    font-weight: inherit;
+  font-family: 'Kanit', sans-serif;
+    font-weight: 400;
   margin: 5px 0;
   line-height: 1.25;
 }
@@ -77,6 +82,7 @@ p {
   font-size: 1.1rem;
   margin-top: 0;
   font-weight: 100;
+  font-family: 'Kanit', sans-serif;
 }
 
 a {
