@@ -60,7 +60,7 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
           
           <div class="projects"><h1><i class="fa-solid fa-link fa-2xs"></i><a class='utlink' href='https://github.com/PeterwMcClelland' target="blank">Projects</a></h1>
 
-<a class="work-text"  href="https://reactthisweekend.herokuapp.com/" target="blank">
+<a class="work-text" href="https://reactthisweekend.herokuapp.com/" target="blank">
 <div class="one">
 <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
   <span class="tooltiptext">Portland skate spot guide.
