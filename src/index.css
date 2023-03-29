@@ -370,7 +370,7 @@ div {
 
 .one { 
 font-size: 25px;
-border-radius: 20px;
+border-radius: 5px;
 color: rgb(185, 185, 185);
 background-image: url(assets/Images/background.png);
 font-weight: bold;
@@ -386,7 +386,7 @@ background-position: center;
 
 .two { 
 font-size: 25px;
-border-radius: 20px;
+border-radius: 5px;
 color:rgb(185, 185, 185);
 font-weight: bold;
 display: flex;
@@ -400,7 +400,7 @@ background-position: bottom;
 }
 .three { 
 font-size: 25px;
-border-radius: 20px;
+border-radius: 5px;
 color: rgb(185, 185, 185);
 background-image: url(./assets/Images/il_fullxfull.2889660441_fkyo.webp);
 background-size: 450px 300px;
@@ -414,7 +414,7 @@ border: solid 2px rgba(255, 255, 255, 0.91);
 }
 .four { 
 font-size: 25px;
-border-radius: 20px;
+border-radius: 5px;
 color:rgb(185, 185, 185);
 font-weight: bold;
 display: flex;
@@ -429,7 +429,7 @@ background-position: bottom;
 
 .five { 
 font-size: 25px;
-border-radius: 20px;
+border-radius: 5px;
 color: rgb(185, 185, 185);
 font-weight: bold;
 display: flex;
@@ -501,30 +501,30 @@ background-size: 295px 236px;
 
 .one:hover {
   box-shadow: rgba(255, 252, 252, 0.37) 8px 8px;
-  transition: 800ms;
+  transition: 600ms;
   background-size: 736px 410px;
 }
 
 .two:hover {
   box-shadow: rgba(255, 252, 252, 0.37) 8px 8px;
-  transition: 800ms;
+  transition: 600ms;
   background-size: 450px 275px;
 }
 
 .three:hover {
   box-shadow: rgba(255, 252, 252, 0.37) 8px 8px;
-  transition: 800ms;
+  transition: 600ms;
   background-size: 500px 350px;
 }
 
 .four:hover {
   box-shadow: rgba(255, 252, 252, 0.37) 8px 8px;
-  transition: 800ms;
+  transition: 600ms;
   background-size: 375px 300px;
 }
 
 .five:hover {
   box-shadow: rgba(255, 252, 252, 0.37) 8px 8px;
-  transition: 800ms;
+  transition: 600ms;
   background-size: 345px 296px;
 }
