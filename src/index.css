@@ -501,30 +501,30 @@ background-size: 295px 236px;
 
 .one:hover {
   box-shadow: rgba(255, 252, 252, 0.37) 8px 8px;
-  transition: 600ms;
+  transition: 650ms;
   background-size: 736px 410px;
 }
 
 .two:hover {
   box-shadow: rgba(255, 252, 252, 0.37) 8px 8px;
-  transition: 600ms;
+  transition: 650ms;
   background-size: 450px 275px;
 }
 
 .three:hover {
   box-shadow: rgba(255, 252, 252, 0.37) 8px 8px;
-  transition: 600ms;
+  transition: 650ms;
   background-size: 500px 350px;
 }
 
 .four:hover {
   box-shadow: rgba(255, 252, 252, 0.37) 8px 8px;
-  transition: 600ms;
+  transition: 650ms;
   background-size: 375px 300px;
 }
 
 .five:hover {
   box-shadow: rgba(255, 252, 252, 0.37) 8px 8px;
-  transition: 600ms;
+  transition: 650ms;
   background-size: 345px 296px;
 }
