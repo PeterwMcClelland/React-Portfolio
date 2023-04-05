@@ -60,17 +60,17 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
           
           <div class="projects"><h1><i class="fa-solid fa-link fa-2xs"></i><a class='utlink' href='https://github.com/PeterwMcClelland' target="blank">Projects</a></h1>
 
-<a class="work-text" href="https://reactthisweekend.herokuapp.com/" target="blank">
+<a class="work-text" href="https://newport-house.herokuapp.com/" target="blank">
 <div class="one">
 <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
-  <span class="tooltiptext">Portland skate spot guide.
-        <p class="builtwithtext">Built with: React, HTML, CSS, JavaScript and Fontawesome.</p>
+  <span class="tooltiptext">Private beach house rental in Newport, OR.
+        <p class="builtwithtext">Built with: React, HTML, CSS, JavaScript.</p>
         </span>
 </div>
 </div>
 
 </a>
-<a class="githubicon" href="https://github.com/PeterwMcClelland/React-This-Weekend" target='blank'>
+<a class="githubicon" href="https://github.com/PeterwMcClelland/Beach-House" target='blank'>
 <i class="fa-brands fa-github fa-xs"></i>
     Repository</a>
     
@@ -78,16 +78,16 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
     
 <div class="grid-portfolio">
     <div>
-        <a class="work-text" href="https://react-tilebarespresso.herokuapp.com/" target="blank">
+        <a class="work-text" href="https://reactthisweekend.herokuapp.com/" target="blank">
         <div class="two">
         <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
-        <span class="tooltiptext">This is a template that can be used for a coffee catering company.
-        <p class="builtwithtext">Built with: React, HTML, CSS, Javascript, Heroku.</p>
+        <span class="tooltiptext">Portland skate spot guide.
+        <p class="builtwithtext">Built with: React, HTML, CSS, JavaScript and Fontawesome.</p>
         </span>
 </div>
         </div>
         </a>
-        <a class="githubicon" href="https://github.com/PeterwMcClelland/React-TileBar-Espresso" target='blank'>
+        <a class="githubicon" href="https://github.com/PeterwMcClelland/React-This-Weekend" target='blank'>
         <i class="fa-brands fa-github fa-xs"></i>Repository
             </a>
     </div>
@@ -108,31 +108,31 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
     </div>
 
     <div>
-        <a class="work-text" href="https://github.com/PeterwMcClelland/Video-Game-Chats" target="blank">
+        <a class="work-text" href="https://react-tilebarespresso.herokuapp.com/" target="blank">
         <div class="four">
             <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
-            <span class="tooltiptext">(In Development) This project is a gaming chat room, just create an account and start chating.
+            <span class="tooltiptext">This is a template that can be used for a coffee catering company.
+            <p class="builtwithtext">Built with: React, HTML, CSS, Javascript, Heroku.</p>
+        </span>
+    </div>
+        </div>
+        </a>
+        <a class="githubicon" href="https://github.com/PeterwMcClelland/React-TileBar-Espresso" target='blank'>
+        <i class="fa-brands fa-github fa-xs"></i>Repository
+            </a>
+    </div>
+
+    <div>
+        <a class="work-text" href="https://github.com/PeterwMcClelland/Video-Game-Chats" target="blank">
+        <div class="five">
+            <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
+                <span class="tooltiptext">(In Development) This project is a gaming chat room, just create an account and start chating.
             <p class="builtwithtext">Built with: Javascript, Node, Express, mySQL, MVC.</p>
         </span>
     </div>
         </div>
         </a>
         <a class="githubicon" href="https://github.com/PeterwMcClelland/Video-Game-Chats" target='blank'>
-        <i class="fa-brands fa-github fa-xs"></i>Repository
-            </a>
-    </div>
-
-    <div>
-        <a class="work-text" href="https://peterwmcclelland.github.io/Taskmaster-Pro/" target="blank">
-        <div class="five">
-            <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
-                <span class="tooltiptext">A app to help you orgenize your schedule with date and category capability.
-            <p class="builtwithtext">Built with: HTML, CSS, Javascript, Bootstrap, JQuery.</p>
-        </span>
-    </div>
-        </div>
-        </a>
-        <a class="githubicon" href="https://github.com/PeterwMcClelland/Taskmaster-Pro" target='blank'>
         <i class="fa-brands fa-github fa-xs"></i>Repository
             </a>
     </div>
