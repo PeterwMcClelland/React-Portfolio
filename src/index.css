@@ -395,10 +395,11 @@ width: 300px;
 height: 250px;
 transition: 750ms;
 background-image: url(assets/Images/background.png);
-background-size: 700px 450px;
+background-size: 400px 240px;
 border: solid 2px rgba(255, 255, 255, 0.91);
 background-position: center;
 }
+
 .three { 
 font-size: 25px;
 border-radius: 5px;
@@ -501,6 +502,7 @@ transition: 650ms;
   font-size: 18px;
   text-decoration: none;
   font-weight: 100;
+  height: 30px;
 }
 
 .one:hover {
@@ -512,7 +514,7 @@ transition: 650ms;
 .two:hover {
   box-shadow: rgba(255, 252, 252, 0.37) 8px 8px;
   transition: 750ms;
-  background-size: 400px 240px;
+  background-size: 500px 300px;
 }
 
 .three:hover {
