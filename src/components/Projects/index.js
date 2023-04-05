@@ -1,4 +1,11 @@
 import React from 'react'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faFile } from '@fortawesome/free-solid-svg-icons';
+
+import Resume from '../../assets/PDF/Peter McClelland Resume 2.pdf';
+import UT from '../../assets/PDF/McClelland_Peter_TCH-5003-052.pdf';
+
+
 
 function Projects (){
 
@@ -23,13 +30,13 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
                 <p class='utlink'>
                     <ul>
                         <li>
-                <i class="fa-solid fa-link fa-2xs"></i><a class='utlink' href='https://docs.google.com/document/d/e/2PACX-1vQijtfi9bCCIYd63dWPurpHlJyppLnMrMYdc4TbpZxEY9CT7cERLlz_6DqsS9ZGDx_AMyJaGShvKceG/pub' target="blank">UT Austin</a>
-                </li>
-                <li>
-                <i class="fa-solid fa-link fa-2xs"></i><a class='utlink' href="https://docs.google.com/document/d/e/2PACX-1vQKVZiuqPpoYBHhoxpEjFMPCJ2ETPFrhwVCRk_NjZ3eiN34DUTwePqgfDeW0w38SligD6Co3OCqhZLu/pub" target="blank"> Resume</a>
-                </li>
-                </ul>
-            </p>
+                            <FontAwesomeIcon size='sm' icon={faFile} /><a class='utlink' href={Resume} target="blank"> Resume</a>
+                        </li>
+                        <li>
+                            <FontAwesomeIcon size='sm' icon={faFile} /><a class='utlink' href={UT} target="blank"> UT Austin Certification</a>
+                        </li>
+                    </ul>
+                </p>
             </div>
             
             <h2>Languages / Programs</h2>
