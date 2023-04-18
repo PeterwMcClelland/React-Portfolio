@@ -12,18 +12,24 @@ function Projects (){
     return (
 <div class="grid-with-sidebar about-me">
         <div>
-            <h2>About Me</h2>
-            <p>
-                I'm Peter McClelland,
-            </p>
             
-<p>
-I am a full stack web Developer based in Austin TX. I recently graduated from UT Austins coding bootcamp program. The program was very rewarding and I am looking forward to building off what I have learned. I would like to become a part of a company where I can continue to learn and develop my skills. 
-</p>
+            <h2>About Me</h2>
+            <p className='aboutme-text'>
+                I'm Peter McClelland.
+            </p>
+    <p className='aboutme-text'>
+          I am a creative and detail-oriented web developer based in Austin, Texas.
+          I am passionate about creating functional, modern websites for the optimal
+          user experience. I am proficient in HTML, CSS, JavaScript, and React, 
+          and have extensive experience with layout design, integrated APIs and 
+          building dynamic, interactive user interfaces.
+    </p>
 
-<p>
-    I'm currently available for freelance work. Contact information is below if you would like to connect!  
-</p>
+    <p className='aboutme-text'>
+        I am currently available for freelance work. Contact information is 
+        below if you would like to connect!  
+    </p>
+
 
            <div class="education"> 
             <h2>Education/Resume</h2>
@@ -39,10 +45,10 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
                 </p>
             </div>
             
-            <h2>Languages / Programs</h2>
+            <h2 className='languages'>Languages / Programs</h2>
 
-            <p class="languages">
-                <ul>
+            <p className='skills'>
+                <ul class="column">
                 <li>HTML5</li>
                 <li>JavaScript</li>
                 <li>CSS</li>
@@ -50,12 +56,13 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
                 <li>MySQL</li>
                 <li>REACT</li>
                 <li>Node.js</li>
+                </ul>
+                <ul className='column'>
                 <li>Express</li>
                 <li>Bootstrap</li>
                 <li>Github</li>
                 <li>Heroku</li>
                 <li>MERN</li>
-                <li>MVP</li>
                 <li>JSON</li>
                 <li>JQuery</li>
                 </ul>
@@ -71,7 +78,7 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
 <div class="one">
 <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
   <span class="tooltiptext">Private beach house rental in Newport, OR.
-        <p class="builtwithtext">Built with: React, HTML, CSS, JavaScript.</p>
+        <p class="builtwithtext">Built with: React, HTML, CSS, JavaScript, EmailJS & Heroku.</p>
         </span>
 </div>
 </div>
@@ -89,7 +96,7 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
         <div class="two">
         <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
         <span class="tooltiptext">Portland skate spot guide.
-        <p class="builtwithtext">Built with: React, HTML, CSS, JavaScript and Fontawesome.</p>
+        <p class="builtwithtext">Built with: React, HTML, CSS, JavaScript & Fontawesome.</p>
         </span>
 </div>
         </div>
@@ -119,7 +126,7 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
         <div class="four">
             <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
             <span class="tooltiptext">This is a template that can be used for a coffee catering company.
-            <p class="builtwithtext">Built with: React, HTML, CSS, Javascript, Heroku.</p>
+            <p class="builtwithtext">Built with: React, HTML, CSS, Javascript & Heroku.</p>
         </span>
     </div>
         </div>
@@ -134,7 +141,7 @@ I am a full stack web Developer based in Austin TX. I recently graduated from UT
         <div class="five">
             <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
                 <span class="tooltiptext">(In Development) This project is a gaming chat room, just create an account and start chating.
-            <p class="builtwithtext">Built with: Javascript, Node, Express, mySQL, MVC.</p>
+            <p class="builtwithtext">Built with: Javascript, Node, Express, mySQL & MVC.</p>
         </span>
     </div>
         </div>

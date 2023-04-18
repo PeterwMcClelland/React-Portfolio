@@ -346,6 +346,7 @@ a {
   
 }
 
+
 .wrapper {
   display: grid;
   justify-content:center;
@@ -366,6 +367,19 @@ div {
 
 .grid-with-sidebar {
 	background: #838181
+}
+
+.languages {
+  padding-top: 20px;
+}
+
+.skills {
+  display: flex;
+  float: left;
+}
+
+.column {
+  flex: 50%
 }
 
 .one { 
