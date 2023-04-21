@@ -1,10 +1,12 @@
-import React from 'react'
+import React from 'react';
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFile } from '@fortawesome/free-solid-svg-icons';
 
+
+
 import Resume from '../../assets/PDF/Peter McClelland Resume 2.pdf';
 import UT from '../../assets/PDF/McClelland_Peter_TCH-5003-052.pdf';
-
 
 
 function Projects (){
@@ -12,7 +14,6 @@ function Projects (){
     return (
 <div class="grid-with-sidebar about-me">
         <div>
-            
             <h2>About Me</h2>
             <p className='aboutme-text'>
                 I'm Peter McClelland.
@@ -49,22 +50,16 @@ function Projects (){
 
             <p className='skills'>
                 <ul class="column">
-                <li>HTML5</li>
-                <li>JavaScript</li>
-                <li>CSS</li>
-                <li>PHP</li>
-                <li>MySQL</li>
-                <li>REACT</li>
-                <li>Node.js</li>
+                <li><i id='program-icon' class="fa-brands fa-3x fa-html5" ></i></li>
+                <li><i id='program-icon' class="fa-brands fa-3x fa-js"></i></li>
+                <li><i id='program-icon' class="fa-solid fa-3x fa-database"></i></li>
+                <li><i id='program-icon' class="fa-brands fa-3x fa-square-github"></i></li>
                 </ul>
                 <ul className='column'>
-                <li>Express</li>
-                <li>Bootstrap</li>
-                <li>Github</li>
-                <li>Heroku</li>
-                <li>MERN</li>
-                <li>JSON</li>
-                <li>JQuery</li>
+                <li><i id='program-icon' class="fa-brands fa-3x fa-css3-alt"></i></li>
+                <li><i id='program-icon' class="fa-brands fa-3x fa-react"></i></li>
+                <li><i id='program-icon' class="fa-brands fa-3x fa-node"></i></li>
+                <li><i id='program-icon' class="fa-brands fa-3x fa-aws"></i></li>
                 </ul>
             </p>
         </div>
