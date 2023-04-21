@@ -373,9 +373,14 @@ div {
   padding-top: 20px;
 }
 
+#icon-js:hover {
+ size: 40px;
+}
+
 .skills {
   display: flex;
   float: left;
+  text-align-last: center;
 }
 
 .column {

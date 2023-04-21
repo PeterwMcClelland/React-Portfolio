@@ -50,16 +50,18 @@ function Projects (){
 
             <p className='skills'>
                 <ul class="column">
-                <li><i id='program-icon' class="fa-brands fa-3x fa-html5" ></i></li>
-                <li><i id='program-icon' class="fa-brands fa-3x fa-js"></i></li>
-                <li><i id='program-icon' class="fa-solid fa-3x fa-database"></i></li>
-                <li><i id='program-icon' class="fa-brands fa-3x fa-square-github"></i></li>
+                <li>HTML5</li>
+                <li>JavaScript</li>
+                <li>SQL</li>
+                <li>GitHub</li>
+                <li>JSON</li>
                 </ul>
                 <ul className='column'>
-                <li><i id='program-icon' class="fa-brands fa-3x fa-css3-alt"></i></li>
-                <li><i id='program-icon' class="fa-brands fa-3x fa-react"></i></li>
-                <li><i id='program-icon' class="fa-brands fa-3x fa-node"></i></li>
-                <li><i id='program-icon' class="fa-brands fa-3x fa-aws"></i></li>
+                <li>CSS3</li>
+                <li>React.js</li>
+                <li>Node.js</li>
+                <li>Heroku</li>
+                <li>Express</li>
                 </ul>
             </p>
         </div>
