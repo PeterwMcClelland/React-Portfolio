@@ -46,7 +46,7 @@ function Projects (){
                 </p>
             </div>
             
-            <h2 className='languages'>Languages / Programs</h2>
+            <h2 className='languages'>Languages / Frameworks</h2>
 
             <p className='skills'>
                 <ul class="column">
@@ -55,9 +55,11 @@ function Projects (){
                 <li>SQL</li>
                 <li>GitHub</li>
                 <li>JSON</li>
+                <li>JQuery</li>
                 </ul>
                 <ul className='column'>
                 <li>CSS3</li>
+                <li>Java</li>
                 <li>React.js</li>
                 <li>Node.js</li>
                 <li>Heroku</li>
