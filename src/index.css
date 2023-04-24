@@ -366,7 +366,8 @@ div {
 }
 
 .grid-with-sidebar {
-	background: #838181
+	background: #838181;
+  padding-top: 20px;
 }
 
 .languages {

@@ -1,9 +1,6 @@
 import React from 'react';
-
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFile } from '@fortawesome/free-solid-svg-icons';
-
-
 
 import Resume from '../../assets/PDF/Peter McClelland Resume 2.pdf';
 import UT from '../../assets/PDF/McClelland_Peter_TCH-5003-052.pdf';
