@@ -21,7 +21,6 @@ function App() {
     <div>
       <Nav></Nav>
       <main>
-      
       <Projects></Projects>
       </main>
       <footer>
