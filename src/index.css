@@ -394,14 +394,14 @@ div {
 font-size: 25px;
 border-radius: 5px;
 color: rgb(185, 185, 185);
-background-image: url(assets/Images/04599f12-2df1-4cb9-aac1-89c78ab0718c.webp);
+background-image: url(/src/assets/Images/background.png);
 font-weight: bold;
 padding: 10px;
 height: 275px;
 border: solid;
 width: 100%;
 border: solid 2px rgba(255, 255, 255, 0.91);
-background-size: 686px 380px;
+background-size: 686px 350px;
 background-position: center;
 transition: 650ms;
 }
@@ -416,7 +416,7 @@ padding: 10px;
 width: 300px;
 height: 250px;
 transition: 750ms;
-background-image: url(assets/Images/background.png);
+background-image: url(assets/Images/04599f12-2df1-4cb9-aac1-89c78ab0718c.webp);
 background-size: 400px 240px;
 border: solid 2px rgba(255, 255, 255, 0.91);
 background-position: center;
@@ -530,7 +530,7 @@ transition: 650ms;
 .one:hover {
   box-shadow: rgba(255, 252, 252, 0.37) 8px 8px;
   transition: 650ms;
-  background-size: 736px 410px;
+  background-size: 750px 400px;
 }
 
 .two:hover {

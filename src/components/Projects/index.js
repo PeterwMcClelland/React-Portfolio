@@ -56,7 +56,7 @@ function Projects (){
                 </ul>
                 <ul className='column'>
                 <li>CSS3</li>
-                <li>Java</li>
+                <li>MongoDB</li>
                 <li>React.js</li>
                 <li>Node.js</li>
                 <li>Heroku</li>
@@ -70,17 +70,17 @@ function Projects (){
           
           <div class="projects"><h1><i class="fa-solid fa-link fa-2xs"></i><a class='utlink' href='https://github.com/PeterwMcClelland' target="blank">Projects</a></h1>
 
-<a class="work-text" href="https://newport-house.herokuapp.com/" target="blank">
+<a class="work-text" href="https://thisweekend.herokuapp.com/" target="blank">
 <div class="one">
 <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
-  <span class="tooltiptext">Private beach house rental in Newport, OR.
-        <p class="builtwithtext">Built with: React, HTML, CSS, JavaScript, EmailJS & Heroku.</p>
+  <span class="tooltiptext">Portland skate spot guide.
+        <p class="builtwithtext">Built with: React, HTML, CSS, JavaScript, MongoDB & deployed with Heroku.</p>
         </span>
 </div>
 </div>
 
 </a>
-<a class="githubicon" href="https://github.com/PeterwMcClelland/Beach-House" target='blank'>
+<a class="githubicon" href="https://github.com/PeterwMcClelland/ThisWeekend3.0" target='blank'>
 <i class="fa-brands fa-github fa-xs"></i>
     Repository</a>
     
@@ -88,16 +88,16 @@ function Projects (){
     
 <div class="grid-portfolio">
     <div>
-        <a class="work-text" href="https://reactthisweekend.herokuapp.com/" target="blank">
+        <a class="work-text" href="https://newport-house.herokuapp.com/" target="blank">
         <div class="two">
         <div class="tooltip"><i class="fa-solid fa-circle-info fa-xl"></i>
-        <span class="tooltiptext">Portland skate spot guide.
-        <p class="builtwithtext">Built with: React, HTML, CSS, JavaScript & Fontawesome.</p>
+        <span class="tooltiptext">Private beach house rental in Newport, OR.
+        <p class="builtwithtext">Built with: React, HTML, CSS, JavaScript, EmailJS & Heroku.</p>
         </span>
 </div>
         </div>
         </a>
-        <a class="githubicon" href="https://github.com/PeterwMcClelland/React-This-Weekend" target='blank'>
+        <a class="githubicon" href="https://github.com/PeterwMcClelland/Beach-House" target='blank'>
         <i class="fa-brands fa-github fa-xs"></i>Repository
             </a>
     </div>
